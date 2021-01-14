@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Linkedin : https://www.linkedin.com/in/jehyun-jung-bb247813b/ <br>
-Portfolio : https://congmul.github.io/jehyunjung/
+Portfolio : https://congmul.github.io/jehyunjung/ <br>
+email : congmul@hotmail.com
 <!--
 **congmul/congmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
