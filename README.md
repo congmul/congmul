@@ -4,6 +4,8 @@ Linkedin : https://www.linkedin.com/in/jehyun-jung-bb247813b/ <br>
 Portfolio : https://congmul.github.io/jehyunjung/ <br>
 email : congmul@hotmail.com <br>
 Gist Resume : https://gist.github.com/congmul/382bf3dc07fc8f451f96f5e6abd9ac08
+
+https://github-readme-stats.vercel.app/api?username=congmul&show_icons=true&hide_border=true&theme=dracula
 <!--
 **congmul/congmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
